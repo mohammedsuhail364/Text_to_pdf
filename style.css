@@ -1,0 +1,11 @@
+.container{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top: 80px;
+    width: 600px;
+    height: 400px;
+}
